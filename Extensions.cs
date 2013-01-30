@@ -6,9 +6,10 @@ namespace System
     public static class Extensions
     {
         /// <summary>
-        /// Invoke an Action delegate or event in a thread-safe manner. By passing the delegate
-        /// as a method parameter, modifications to the original (such as unsubscribing all handlers)
-        /// will not affect the local copy.
+        /// Invoke an Action delegate or event in a thread-safe manner. By 
+        /// passing the delegate as a method parameter, modifications to the 
+        /// original (such as unsubscribing all handlers) will not affect the 
+        /// local copy.
         /// </summary>
         public static void SafeInvoke(this Action action)
         {
