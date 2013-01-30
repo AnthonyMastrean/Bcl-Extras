@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafeEvents", "SafeEvents.csproj", "{7A5856D4-8D79-4D73-BE4F-D59AA5327155}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafeEvents", "SafeEvents\SafeEvents.csproj", "{7A5856D4-8D79-4D73-BE4F-D59AA5327155}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
